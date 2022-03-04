@@ -1,201 +1,201 @@
-unit_id,q_0_age_answer,q_0_school_answer,q_0_taxes_answer,q_0_political_views_answer,q_0_consideration_answer,q_0_southern_border_answer,q_0_environment_answer,q_1_farmers_score,q_2_marks_score,q_3_athletics_score,overall_crt_score,q_0_time_elapsed,q_1_time_elapsed,q_2_time_elapsed,q_3_time_elapsed,q_0_accesses,q_1_accesses,q_2_accesses,q_3_accesses
-unit_1,26-35,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Very liberal,Independent,Disagree,Agree,0,1,0,1,38.6,17.98,23.91,274.19,1,1,1,1
-unit_3,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Independent,No opinion either way,Agree,1,1,1,3,33.94,51.06,301.34,82.71,1,1,1,1
-unit_5,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Republican,Agree,Agree,0,0,0,0,80.59,37.46,54.41,99.68,1,1,1,1
-unit_7,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Very liberal,Democrat,Disagree,Agree,1,1,0,2,28.97,14.92,39.07,30.9,1,1,1,1
-unit_9,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,0,0,0,0,37.77,27.08,23.07,29.91,1,1,1,1
-unit_11,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,17.58,20.0,5.64,13.08,1,1,1,1
-unit_13,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Conservative,Republican,Agree,Disagree,1,1,0,2,25.7,32.3,42.49,56.3,1,1,1,1
-unit_15,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,0,1,0,1,26.65,28.34,27.92,24.35,1,1,1,1
-unit_17,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,1,1,0,2,34.68,36.0,27.76,82.57,1,1,1,1
-unit_19,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,1,0,0,1,49.19,8.74,14.87,28.55,1,1,1,1
-unit_21,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,21.82,54.06,16.43,18.89,1,1,1,1
-unit_23,36-50,"Some postgraduate or professional schooling, no postgraduate degree","75,000 to less than 100,000",Very conservative,Republican,Agree,Agree,0,0,0,0,141.06,80.02,72.39,70.2,1,1,1,1
-unit_25,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Democrat,Agree,Agree,0,0,0,0,41.01,62.31,32.37,40.23,1,1,1,1
-unit_27,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Independent,Disagree,Agree,0,0,0,0,32.37,14.77,9.19,11.75,1,1,1,1
-unit_29,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Conservative,Republican,Agree,Agree,0,0,0,0,47.42,101.58,73.1,103.23,1,1,1,1
-unit_31,19-25,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,25.97,32.76,26.15,69.56,1,1,1,1
-unit_33,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very conservative,Republican,Agree,Disagree,1,1,0,2,31.71,45.24,32.04,33.07,1,1,1,1
-unit_35,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Conservative,Republican,Agree,Disagree,1,0,0,1,18.31,34.1,9.35,22.15,1,1,1,1
-unit_37,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very liberal,Democrat,Agree,Agree,0,0,0,0,67.29,21.58,26.33,69.14,1,1,1,1
-unit_39,36-50,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Republican,Agree,Agree,0,1,0,1,81.16,33.41,54.14,42.2,1,1,1,1
-unit_41,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Agree,Disagree,1,1,0,2,23.86,62.47,48.53,228.49,1,1,1,1
-unit_43,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,1,1,0,2,25.48,22.71,12.8,33.65,1,1,1,1
-unit_45,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,43.46,14.28,20.88,21.4,1,1,1,1
-unit_47,50-80,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,24.16,25.8,36.7,18.67,1,1,1,1
-unit_49,36-50,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,17.85,21.57,6.8,12.47,1,1,1,1
-unit_51,26-35,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Republican,Agree,Disagree,0,0,0,0,18.03,49.14,18.65,62.45,1,1,1,1
-unit_53,26-35,Four year college degree/bachelor’s degree,"Less than 10,000",Very liberal,Democrat,Disagree,No opinion either way,1,1,0,2,146.76,21.55,11.08,19.71,1,1,1,1
-unit_55,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very liberal,Independent,Disagree,Agree,1,1,0,2,13.2,7.89,16.77,17.31,1,1,1,1
-unit_57,36-50,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Independent,No opinion either way,No opinion either way,0,0,0,0,33.68,15.32,33.38,15.13,1,1,1,1
-unit_59,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Independent,Agree,Disagree,0,1,0,1,62.53,26.59,21.64,82.35,1,1,1,1
-unit_61,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,39.17,103.28,65.95,30.87,1,1,1,1
-unit_63,19-25,Four year college degree/bachelor’s degree,"Less than 10,000",Liberal,Independent,Agree,Agree,0,0,1,1,29.8,46.96,15.31,82.73,1,1,1,1
-unit_65,19-25,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,18.88,8.11,32.55,17.5,1,1,1,1
-unit_67,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Liberal,Independent,Disagree,Agree,1,1,1,3,23.42,14.99,9.69,26.18,1,1,1,1
-unit_69,36-50,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Conservative,Republican,Disagree,No opinion either way,1,0,0,1,28.26,17.36,7.24,22.27,1,1,1,1
-unit_71,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,0,0,0,0,53.68,22.51,201.88,309.13,1,1,1,1
-unit_73,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very conservative,Republican,Disagree,Disagree,1,1,0,2,31.39,12.25,6.98,12.76,1,1,1,1
-unit_75,19-25,"Some college (some community college, associate’s degree)","150,000 or more",Conservative,Republican,No opinion either way,Agree,1,1,0,2,37.73,129.46,91.85,97.39,1,1,1,1
-unit_77,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Republican,Agree,Agree,0,0,0,0,137.75,47.57,106.9,97.71,1,1,1,1
-unit_79,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Moderate,Independent,Disagree,Disagree,0,0,0,0,20.35,12.47,6.08,16.28,1,1,1,1
-unit_81,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","150,000 or more",Conservative,Republican,Agree,Agree,1,1,0,2,105.87,66.92,89.12,64.83,1,1,1,1
-unit_83,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Moderate,Democrat,Disagree,Agree,0,0,0,0,16.77,18.26,10.03,18.71,1,1,1,1
-unit_85,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Moderate,Democrat,Agree,Agree,0,0,0,0,27.51,42.34,9.63,20.15,1,1,1,1
-unit_87,36-50,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Very conservative,Republican,Agree,No opinion either way,0,0,0,0,28.77,21.39,10.04,26.36,1,1,1,1
-unit_89,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Agree,No opinion either way,1,1,0,2,30.14,85.64,9.98,24.33,1,1,1,1
-unit_91,26-35,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Moderate,Democrat,Disagree,Agree,1,0,0,1,40.08,29.77,13.71,19.45,1,1,1,1
-unit_93,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Agree,Agree,0,0,0,0,45.78,9.72,5.11,17.23,1,1,1,1
-unit_95,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,0,0,0,0,273.63,49.55,9.12,62.3,1,1,1,1
-unit_97,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very liberal,Democrat,Disagree,Agree,1,1,0,2,18.19,179.92,186.63,125.76,1,1,1,1
-unit_99,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Republican,Agree,Agree,0,0,0,0,23.62,44.65,23.65,56.23,1,1,1,1
-unit_101,19-25,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Moderate,Independent,Disagree,Agree,1,1,1,3,18.54,38.31,9.52,20.35,1,1,1,1
-unit_103,36-50,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,1,1,0,2,44.09,59.51,15.26,42.45,1,1,1,1
-unit_105,19-25,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,14.04,13.72,6.38,12.07,1,1,1,1
-unit_107,19-25,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Republican,Agree,Agree,0,0,0,0,13.97,22.45,5.57,30.81,1,1,1,1
-unit_109,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Democrat,Disagree,Agree,0,0,0,0,19.71,10.41,42.88,43.89,1,1,1,1
-unit_111,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Democrat,Disagree,Agree,0,0,0,0,15.28,16.29,8.37,20.28,1,1,1,1
-unit_113,36-50,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,1,0,0,1,48.1,13.13,8.79,20.3,1,1,1,1
-unit_115,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Very liberal,Democrat,Disagree,Agree,1,1,1,3,19.33,10.54,7.42,7.8,1,1,1,1
-unit_117,19-25,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Something else,Disagree,Agree,1,0,0,1,29.1,87.01,34.87,32.02,1,1,1,1
-unit_119,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Very conservative,Republican,Agree,Agree,0,0,0,0,28.8,23.23,9.98,7.42,1,1,1,1
-unit_121,19-25,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Moderate,Democrat,Disagree,Agree,0,0,0,0,24.41,12.53,54.54,102.8,1,1,1,1
-unit_123,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Independent,No opinion either way,Agree,0,0,0,0,30.34,18.55,18.9,24.03,1,1,1,1
-unit_125,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Very liberal,Independent,Disagree,Agree,0,0,0,0,21.64,12.38,4.85,13.71,1,1,1,1
-unit_127,36-50,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Conservative,Republican,Agree,Disagree,1,0,0,1,52.12,19.29,12.36,25.84,1,1,1,1
-unit_129,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Agree,Agree,0,0,0,0,17.44,10.22,8.76,9.07,1,1,1,1
-unit_131,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Democrat,Agree,Agree,1,0,0,1,54.57,53.23,34.73,57.09,1,1,1,1
-unit_133,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,14.79,12.91,6.09,6.52,1,1,1,1
-unit_135,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Democrat,Agree,Agree,0,1,0,1,49.96,111.65,75.85,101.54,1,1,1,1
-unit_137,19-25,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Moderate,Independent,Disagree,No opinion either way,1,1,0,2,33.79,45.11,16.19,35.71,1,1,1,1
-unit_139,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Very liberal,Democrat,Disagree,Agree,1,0,0,1,20.68,16.61,17.34,27.11,1,1,1,1
-unit_141,19-25,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,16.26,25.36,13.78,12.0,1,1,1,1
-unit_143,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Democrat,Disagree,Agree,1,1,1,3,22.7,21.0,8.66,26.24,1,1,1,1
-unit_145,19-25,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,Disagree,Agree,0,0,0,0,14.71,13.23,47.1,23.34,1,1,1,1
-unit_147,36-50,"Some postgraduate or professional schooling, no postgraduate degree","75,000 to less than 100,000",Liberal,Republican,Agree,Agree,1,0,0,1,145.25,57.91,146.98,51.73,1,1,1,1
-unit_149,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,15.79,21.79,10.5,8.51,1,1,1,1
-unit_151,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,32.11,44.53,36.31,22.11,1,1,1,1
-unit_153,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Independent,Disagree,Agree,0,0,0,0,115.88,281.35,18.9,35.73,1,1,1,1
-unit_155,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,18.14,43.53,19.12,76.97,1,1,1,1
-unit_157,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very conservative,Republican,Agree,Agree,0,0,0,0,52.42,30.06,16.98,20.55,1,1,1,1
-unit_159,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Agree,Agree,0,0,0,0,25.82,21.8,23.76,61.92,1,1,1,1
-unit_161,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Independent,Agree,No opinion either way,1,0,0,1,20.76,107.56,39.85,16.23,1,1,1,1
-unit_163,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Democrat,Disagree,Agree,1,1,0,2,23.25,43.44,40.63,31.91,1,1,1,1
-unit_165,50-80,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Moderate,Independent,No opinion either way,Agree,1,0,0,1,25.18,72.1,24.37,12.65,1,1,1,1
-unit_167,36-50,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,70.33,108.64,37.92,53.72,1,1,1,1
-unit_169,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,111.64,12.06,15.18,32.31,1,1,1,1
-unit_171,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Conservative,Republican,Agree,Disagree,1,0,0,1,12.92,3.18,2.94,4.47,1,1,1,1
-unit_173,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,0,0,0,0,16.8,13.69,8.22,4.44,1,1,1,1
-unit_175,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Republican,Agree,Disagree,0,0,0,0,26.14,32.09,12.82,41.12,1,1,1,1
-unit_177,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Very liberal,Democrat,Disagree,Agree,1,1,0,2,22.11,36.54,28.64,39.34,1,1,1,1
-unit_179,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","150,000 or more",Liberal,Democrat,Agree,Agree,1,0,0,1,70.55,17.92,51.19,60.08,1,1,1,1
-unit_181,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Republican,Agree,Agree,0,0,0,0,20.47,56.72,30.79,39.97,1,1,1,1
-unit_183,50-80,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,54.82,50.53,26.55,40.61,1,1,1,1
-unit_185,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Something else,No opinion either way,Agree,0,0,0,0,28.78,65.03,20.96,34.02,1,1,1,1
-unit_187,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,22.69,11.61,15.93,16.62,1,1,1,1
-unit_189,19-25,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,0,1,0,1,26.95,14.04,19.63,29.57,1,1,1,1
-unit_191,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Independent,No opinion either way,Agree,1,0,0,1,31.96,25.25,17.33,58.03,1,1,1,1
-unit_193,26-35,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,30.25,25.44,13.24,28.43,1,1,1,1
-unit_195,26-35,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Liberal,Democrat,Disagree,Agree,0,1,0,1,95.32,30.73,120.07,181.48,1,1,1,1
-unit_197,26-35,"Some postgraduate or professional schooling, no postgraduate degree","30,000 to less than 40,000",Very conservative,Democrat,Agree,Agree,0,0,0,0,35.45,31.96,18.06,14.49,1,1,1,1
-unit_199,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,0,1,0,1,29.32,65.68,15.95,20.22,1,1,1,1
-unit_0,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Moderate,Republican,Disagree,Agree,1,1,0,2,13.84,6.39,5.22,7.29,1,1,1,1
-unit_4,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,1,0,0,1,25.36,13.21,29.25,21.77,1,1,1,1
-unit_6,26-35,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,No opinion either way,Disagree,1,1,0,2,25.27,15.08,4.96,7.19,1,1,1,1
-unit_8,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Conservative,Republican,Agree,Agree,0,1,0,1,33.16,20.12,50.51,89.95,1,1,1,1
-unit_10,26-35,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Agree,Agree,0,0,0,0,24.51,7.29,5.86,7.81,1,1,1,1
-unit_12,36-50,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Independent,Disagree,Agree,0,0,0,0,26.02,59.57,5.03,13.64,1,1,1,1
-unit_14,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Liberal,Democrat,Agree,Agree,1,0,0,1,34.17,15.24,103.56,8.85,1,1,1,1
-unit_16,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Agree,Agree,1,0,0,1,743.82,21.4,20.23,22.92,1,1,1,1
-unit_18,36-50,"Some college (some community college, associate’s degree)","Less than 10,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,25.95,56.95,37.26,40.09,1,1,1,1
-unit_20,19-25,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Democrat,Agree,Disagree,0,0,0,0,35.49,20.4,8.25,18.02,1,1,1,1
-unit_22,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Agree,Agree,1,0,0,1,30.91,93.7,46.62,53.81,1,1,1,1
-unit_24,26-35,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,Agree,Agree,1,1,0,2,33.12,157.31,30.1,61.2,1,1,1,1
-unit_26,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Democrat,No opinion either way,Agree,0,0,0,0,76.26,179.42,69.13,125.93,1,1,1,1
-unit_28,36-50,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,0,0,0,0,23.2,114.52,13.81,19.85,1,1,1,1
-unit_30,36-50,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Democrat,Agree,No opinion either way,0,0,0,0,60.09,24.9,239.12,27.32,1,1,1,1
-unit_32,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,1,1,0,2,38.85,26.99,19.31,54.65,1,1,1,1
-unit_34,19-25,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Independent,Disagree,Agree,1,1,0,2,18.06,37.61,34.01,49.32,1,1,1,1
-unit_36,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,No opinion either way,Agree,0,0,0,0,55.39,42.55,73.5,37.75,1,1,1,1
-unit_38,26-35,"Some postgraduate or professional schooling, no postgraduate degree","100,000 to less than 150,000",Conservative,Republican,Agree,Agree,1,0,0,1,28.39,26.49,27.74,35.3,1,1,1,1
-unit_40,36-50,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Very liberal,Republican,Agree,Agree,0,0,0,0,24.76,170.42,11.46,17.91,1,1,1,1
-unit_42,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,18.51,9.9,3.3,15.03,1,1,1,1
-unit_44,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Democrat,Agree,Agree,0,0,0,0,107.67,45.97,44.94,72.93,1,1,1,1
-unit_46,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Agree,Disagree,0,0,0,0,146.45,24.43,16.29,11.88,1,1,1,1
-unit_48,36-50,Four year college degree/bachelor’s degree,"150,000 or more",Liberal,Independent,Disagree,Agree,1,0,0,1,16.96,9.31,5.1,9.83,1,1,1,1
-unit_50,19-25,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Moderate,Independent,Disagree,Agree,0,0,0,0,40.25,26.84,60.57,52.74,1,1,1,1
-unit_52,19-25,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Conservative,Democrat,Agree,Agree,0,0,0,0,43.31,44.18,47.64,51.7,1,1,1,1
-unit_54,36-50,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,24.24,11.18,10.66,19.57,1,1,1,1
-unit_56,36-50,"Some postgraduate or professional schooling, no postgraduate degree","150,000 or more",Very liberal,Democrat,Disagree,Agree,1,0,0,1,29.29,15.31,18.37,11.07,1,1,1,1
-unit_58,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Disagree,Disagree,1,0,0,1,65.21,23.75,23.37,40.59,1,1,1,1
-unit_60,36-50,"Some college (some community college, associate’s degree)","Less than 10,000",Very liberal,Democrat,Disagree,Agree,1,1,0,2,64.01,637.38,13.5,16.84,1,1,1,1
-unit_62,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Republican,Agree,Agree,0,0,1,1,114.68,6.78,4.85,16.37,1,1,1,1
-unit_64,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Independent,Disagree,Agree,1,0,0,1,95.84,381.31,105.34,42.97,1,1,1,1
-unit_66,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,16.27,21.37,10.02,10.51,1,1,1,1
-unit_68,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Disagree,No opinion either way,1,1,0,2,18.4,8.46,3.33,5.72,1,1,1,1
-unit_70,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Democrat,Agree,Agree,1,0,0,1,36.06,69.91,17.82,7.05,1,1,1,1
-unit_72,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,302.79,150.47,19.03,47.81,1,1,1,1
-unit_74,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Republican,Agree,Agree,1,1,0,2,82.72,110.63,136.18,127.88,1,1,1,1
-unit_76,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Republican,Agree,Agree,0,0,1,1,22.49,30.1,14.62,29.16,1,1,1,1
-unit_78,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,27.09,31.75,24.58,19.79,1,1,1,1
-unit_80,26-35,"Some postgraduate or professional schooling, no postgraduate degree","40,000 to less than 50,000",Moderate,Republican,Agree,Agree,0,0,0,0,43.73,301.71,73.95,55.52,1,1,1,1
-unit_82,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very liberal,Republican,Agree,Agree,0,0,1,1,65.31,6.43,10.83,5.55,1,1,1,1
-unit_84,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Republican,Agree,Agree,0,0,1,1,43.75,25.79,185.84,12.01,1,1,1,1
-unit_86,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Democrat,Agree,Agree,0,0,1,1,35.99,24.09,13.22,11.62,1,1,1,1
-unit_88,26-35,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Conservative,Republican,Disagree,Agree,1,0,0,1,35.54,32.52,21.53,25.41,1,1,1,1
-unit_90,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"75,000 to less than 100,000",Conservative,Republican,Disagree,Agree,0,0,0,0,24.55,9.46,8.7,18.81,1,1,1,1
-unit_92,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Disagree,Agree,1,0,0,1,48.89,27.19,89.87,40.25,1,1,1,1
-unit_94,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Republican,Agree,Agree,0,0,0,0,42.69,9.9,73.74,47.58,1,1,1,1
-unit_96,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,1,0,0,1,17.81,7.78,7.1,17.0,1,1,1,1
-unit_98,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,36.79,53.56,28.09,46.91,1,1,1,1
-unit_100,19-25,"Some college (some community college, associate’s degree)","Less than 10,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,18.9,14.09,37.0,27.09,1,1,1,1
-unit_102,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,0,0,0,0,260.09,8.75,7.7,8.03,1,1,1,1
-unit_104,19-25,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very liberal,Democrat,Disagree,Agree,1,0,0,1,32.27,18.45,15.51,50.72,1,1,1,1
-unit_106,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Very liberal,Democrat,Disagree,Agree,0,0,0,0,27.84,50.68,11.39,38.18,1,1,1,1
-unit_108,19-25,"Some postgraduate or professional schooling, no postgraduate degree","20,000 to less than 30,000",Moderate,Independent,Agree,Agree,0,0,0,0,18.67,32.16,4.63,6.26,1,1,1,1
-unit_110,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"Less than 10,000",Very liberal,Democrat,Disagree,Agree,0,0,0,0,28.93,26.93,18.64,14.59,1,1,1,1
-unit_112,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Independent,Disagree,Agree,1,0,0,1,23.29,51.5,41.71,29.53,1,1,1,1
-unit_114,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Independent,Disagree,Agree,0,0,0,0,23.48,10.05,10.42,31.78,1,1,1,1
-unit_116,26-35,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Very conservative,Something else,Agree,No opinion either way,1,1,0,2,32.89,17.15,19.71,25.39,1,1,1,1
-unit_118,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,26.9,25.31,11.39,35.59,1,1,1,1
-unit_120,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Moderate,Republican,Agree,Agree,0,1,0,1,25.32,19.89,7.33,38.03,1,1,1,1
-unit_122,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very conservative,Republican,Agree,Disagree,1,0,0,1,15.59,14.72,19.39,13.28,1,1,1,1
-unit_124,26-35,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,0,0,1,1,46.1,33.43,17.74,17.64,1,1,1,1
-unit_126,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Republican,Agree,Agree,0,0,0,0,92.74,73.75,17.51,17.9,1,1,1,1
-unit_128,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Disagree,1,1,0,2,44.82,27.62,38.15,15.37,1,1,1,1
-unit_130,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,Disagree,Agree,1,1,0,2,10.82,6.82,2.94,9.55,1,1,1,1
-unit_132,50-80,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,19.63,13.81,8.3,10.87,1,1,1,1
-unit_134,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,0,1,0,1,12.3,21.34,72.93,13.23,1,1,1,1
-unit_136,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,1,0,0,1,20.62,18.15,11.86,17.74,1,1,1,1
-unit_138,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Democrat,Agree,Agree,0,0,0,0,18.33,18.81,10.1,21.31,1,1,1,1
-unit_140,19-25,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Liberal,Independent,Disagree,Agree,1,1,0,2,16.5,24.79,51.52,35.23,1,1,1,1
-unit_142,50-80,Four year college degree/bachelor’s degree,"Less than 10,000",Very conservative,Republican,No opinion either way,Agree,0,0,0,0,95.25,52.71,117.8,59.56,1,1,1,1
-unit_144,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,1,0,0,1,58.77,15.52,26.9,29.88,1,1,1,1
-unit_146,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Something else,No opinion either way,No opinion either way,0,0,1,1,46.01,34.41,47.53,66.38,1,1,1,1
-unit_148,26-35,"Some postgraduate or professional schooling, no postgraduate degree","40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,0,0,0,0,31.21,10.68,12.84,5.97,1,1,1,1
-unit_150,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,0,0,0,0,28.01,29.55,27.08,18.99,1,1,1,1
-unit_152,19-25,Four year college degree/bachelor’s degree,"Less than 10,000",Conservative,Republican,Agree,Agree,0,1,0,1,17.88,13.59,13.38,32.26,1,1,1,1
-unit_154,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Liberal,Democrat,Disagree,Agree,0,0,0,0,19.15,25.41,8.52,31.78,1,1,1,1
-unit_158,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Conservative,Democrat,Agree,Agree,0,0,0,0,38.7,49.97,79.7,172.79,1,1,1,1
-unit_160,26-35,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,1,0,0,1,32.09,8.91,10.38,15.17,1,1,1,1
-unit_162,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,22.07,9.61,8.86,31.97,1,1,1,1
-unit_164,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,0,0,0,0,52.24,58.7,39.07,58.79,1,1,1,1
-unit_166,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,17.45,17.78,9.2,22.71,1,1,1,1
-unit_170,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,22.47,24.04,8.34,29.42,1,1,1,1
-unit_172,19-25,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Independent,Disagree,Agree,1,0,0,1,28.05,54.92,12.37,31.71,1,1,1,1
-unit_174,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Republican,Disagree,Agree,1,0,0,1,22.59,46.7,10.7,74.42,1,1,1,1
-unit_176,50-80,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Independent,Disagree,Disagree,1,1,0,2,43.02,30.09,16.89,20.55,1,1,1,1
-unit_178,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Republican,Agree,Agree,1,0,0,1,31.48,40.75,44.98,179.59,1,1,1,1
-unit_180,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Independent,Agree,Agree,0,0,0,0,38.83,25.81,39.17,51.74,1,1,1,1
-unit_182,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Democrat,Agree,Agree,0,0,0,0,26.33,25.52,9.39,3.97,1,1,1,1
-unit_184,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Democrat,Agree,Agree,0,0,0,0,29.39,32.36,25.74,21.26,1,1,1,1
-unit_186,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Agree,Agree,1,0,0,1,38.69,9.24,5.75,7.77,1,1,1,1
-unit_188,50-80,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Democrat,Agree,Agree,0,0,1,1,33.6,20.74,17.51,26.49,1,1,1,1
-unit_190,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,1,1,0,2,48.17,26.9,28.03,42.15,1,1,1,1
-unit_192,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,1,0,0,1,76.5,46.32,83.0,15.83,1,1,1,1
-unit_194,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Very conservative,Republican,Agree,No opinion either way,0,0,0,0,33.81,38.24,19.63,21.76,1,1,1,1
-unit_196,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,Agree,Agree,1,1,0,2,58.99,18.03,10.37,10.7,1,1,1,1
-unit_198,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Agree,Agree,0,0,0,0,233.49,22.35,10.38,24.68,1,1,1,1
-unit_2,19-25,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Conservative,Republican,Disagree,Agree,1,0,0,1,23.88,23.98,11.29,52.79,1,1,1,1
-unit_168,19-25,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Very liberal,Democrat,Disagree,Agree,1,1,0,2,33.81,10.77,20.3,237.91,1,1,1,1
-unit_156,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Democrat,No opinion either way,Agree,0,0,1,1,371.26,607.14,13.72,161.39,1,1,1,1
+unit_id,q_0_age_answer,q_0_school_answer,q_0_taxes_answer,q_0_political_views_answer,q_0_consideration_answer,q_0_southern_border_answer,q_0_environment_answer,q_0_age_value,q_0_school_value,q_0_taxes_value,q_0_political_views_value,q_0_consideration_value,q_0_southern_border_value,q_0_environment_value,q_1_farmers_score,q_2_marks_score,q_3_athletics_score,overall_crt_score,q_0_time_elapsed,q_1_time_elapsed,q_2_time_elapsed,q_3_time_elapsed,q_0_accesses,q_1_accesses,q_2_accesses,q_3_accesses
+unit_1,26-35,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Very liberal,Independent,Disagree,Agree,2.0,2.0,3.0,4.0,2.0,1.0,0.0,0,1,0,1,38.6,17.98,23.91,274.19,1,1,1,1
+unit_3,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Independent,No opinion either way,Agree,2.0,5.0,5.0,3.0,2.0,2.0,0.0,1,1,1,3,33.94,51.06,301.34,82.71,1,1,1,1
+unit_5,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Republican,Agree,Agree,2.0,3.0,5.0,4.0,0.0,0.0,0.0,0,0,0,0,80.59,37.46,54.41,99.68,1,1,1,1
+unit_7,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Very liberal,Democrat,Disagree,Agree,4.0,5.0,7.0,4.0,1.0,1.0,0.0,1,1,0,2,28.97,14.92,39.07,30.9,1,1,1,1
+unit_9,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,1.0,1.0,7.0,2.0,2.0,1.0,0.0,0,0,0,0,37.77,27.08,23.07,29.91,1,1,1,1
+unit_11,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,3.0,3.0,6.0,3.0,1.0,1.0,0.0,1,1,0,2,17.58,20.0,5.64,13.08,1,1,1,1
+unit_13,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Conservative,Republican,Agree,Disagree,2.0,5.0,5.0,1.0,0.0,0.0,1.0,1,1,0,2,25.7,32.3,42.49,56.3,1,1,1,1
+unit_15,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,4.0,5.0,1.0,3.0,1.0,1.0,0.0,0,1,0,1,26.65,28.34,27.92,24.35,1,1,1,1
+unit_17,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,3.0,5.0,5.0,0.0,0.0,0.0,0.0,1,1,0,2,34.68,36.0,27.76,82.57,1,1,1,1
+unit_19,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,2.0,3.0,3.0,4.0,1.0,1.0,0.0,1,0,0,1,49.19,8.74,14.87,28.55,1,1,1,1
+unit_21,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,5.0,5.0,3.0,1.0,1.0,0.0,1,0,0,1,21.82,54.06,16.43,18.89,1,1,1,1
+unit_23,36-50,"Some postgraduate or professional schooling, no postgraduate degree","75,000 to less than 100,000",Very conservative,Republican,Agree,Agree,3.0,4.0,6.0,0.0,0.0,0.0,0.0,0,0,0,0,141.06,80.02,72.39,70.2,1,1,1,1
+unit_25,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Democrat,Agree,Agree,2.0,3.0,6.0,1.0,1.0,0.0,0.0,0,0,0,0,41.01,62.31,32.37,40.23,1,1,1,1
+unit_27,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Independent,Disagree,Agree,2.0,3.0,6.0,2.0,2.0,1.0,0.0,0,0,0,0,32.37,14.77,9.19,11.75,1,1,1,1
+unit_29,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Conservative,Republican,Agree,Agree,3.0,3.0,5.0,1.0,0.0,0.0,0.0,0,0,0,0,47.42,101.58,73.1,103.23,1,1,1,1
+unit_31,19-25,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,1.0,2.0,4.0,3.0,1.0,1.0,0.0,1,1,0,2,25.97,32.76,26.15,69.56,1,1,1,1
+unit_33,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very conservative,Republican,Agree,Disagree,3.0,5.0,6.0,0.0,0.0,0.0,1.0,1,1,0,2,31.71,45.24,32.04,33.07,1,1,1,1
+unit_35,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Conservative,Republican,Agree,Disagree,4.0,2.0,5.0,1.0,0.0,0.0,1.0,1,0,0,1,18.31,34.1,9.35,22.15,1,1,1,1
+unit_37,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very liberal,Democrat,Agree,Agree,3.0,5.0,6.0,4.0,1.0,0.0,0.0,0,0,0,0,67.29,21.58,26.33,69.14,1,1,1,1
+unit_39,36-50,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Republican,Agree,Agree,3.0,2.0,6.0,1.0,0.0,0.0,0.0,0,1,0,1,81.16,33.41,54.14,42.2,1,1,1,1
+unit_41,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Agree,Disagree,3.0,3.0,6.0,1.0,0.0,0.0,1.0,1,1,0,2,23.86,62.47,48.53,228.49,1,1,1,1
+unit_43,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,2.0,3.0,5.0,4.0,2.0,1.0,0.0,1,1,0,2,25.48,22.71,12.8,33.65,1,1,1,1
+unit_45,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,3.0,5.0,5.0,3.0,1.0,1.0,0.0,0,0,0,0,43.46,14.28,20.88,21.4,1,1,1,1
+unit_47,50-80,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,4.0,2.0,4.0,3.0,1.0,1.0,0.0,1,1,0,2,24.16,25.8,36.7,18.67,1,1,1,1
+unit_49,36-50,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,3.0,2.0,3.0,3.0,1.0,1.0,0.0,0,0,0,0,17.85,21.57,6.8,12.47,1,1,1,1
+unit_51,26-35,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Republican,Agree,Disagree,2.0,2.0,6.0,1.0,0.0,0.0,1.0,0,0,0,0,18.03,49.14,18.65,62.45,1,1,1,1
+unit_53,26-35,Four year college degree/bachelor’s degree,"Less than 10,000",Very liberal,Democrat,Disagree,No opinion either way,2.0,3.0,0.0,4.0,1.0,1.0,2.0,1,1,0,2,146.76,21.55,11.08,19.71,1,1,1,1
+unit_55,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very liberal,Independent,Disagree,Agree,2.0,2.0,2.0,4.0,2.0,1.0,0.0,1,1,0,2,13.2,7.89,16.77,17.31,1,1,1,1
+unit_57,36-50,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Independent,No opinion either way,No opinion either way,3.0,2.0,3.0,3.0,2.0,2.0,2.0,0,0,0,0,33.68,15.32,33.38,15.13,1,1,1,1
+unit_59,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Independent,Agree,Disagree,2.0,3.0,6.0,2.0,2.0,0.0,1.0,0,1,0,1,62.53,26.59,21.64,82.35,1,1,1,1
+unit_61,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,1.0,1.0,6.0,3.0,1.0,1.0,0.0,1,0,0,1,39.17,103.28,65.95,30.87,1,1,1,1
+unit_63,19-25,Four year college degree/bachelor’s degree,"Less than 10,000",Liberal,Independent,Agree,Agree,1.0,3.0,0.0,3.0,2.0,0.0,0.0,0,0,1,1,29.8,46.96,15.31,82.73,1,1,1,1
+unit_65,19-25,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,1.0,5.0,3.0,3.0,1.0,1.0,0.0,1,0,0,1,18.88,8.11,32.55,17.5,1,1,1,1
+unit_67,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Liberal,Independent,Disagree,Agree,3.0,5.0,7.0,3.0,2.0,1.0,0.0,1,1,1,3,23.42,14.99,9.69,26.18,1,1,1,1
+unit_69,36-50,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Conservative,Republican,Disagree,No opinion either way,3.0,3.0,7.0,1.0,0.0,1.0,2.0,1,0,0,1,28.26,17.36,7.24,22.27,1,1,1,1
+unit_71,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,2.0,5.0,5.0,0.0,0.0,0.0,0.0,0,0,0,0,53.68,22.51,201.88,309.13,1,1,1,1
+unit_73,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Very conservative,Republican,Disagree,Disagree,2.0,5.0,6.0,0.0,0.0,1.0,1.0,1,1,0,2,31.39,12.25,6.98,12.76,1,1,1,1
+unit_75,19-25,"Some college (some community college, associate’s degree)","150,000 or more",Conservative,Republican,No opinion either way,Agree,1.0,2.0,8.0,1.0,0.0,2.0,0.0,1,1,0,2,37.73,129.46,91.85,97.39,1,1,1,1
+unit_77,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Republican,Agree,Agree,3.0,3.0,5.0,2.0,0.0,0.0,0.0,0,0,0,0,137.75,47.57,106.9,97.71,1,1,1,1
+unit_79,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Moderate,Independent,Disagree,Disagree,2.0,5.0,5.0,2.0,2.0,1.0,1.0,0,0,0,0,20.35,12.47,6.08,16.28,1,1,1,1
+unit_81,50-80,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","150,000 or more",Conservative,Republican,Agree,Agree,4.0,5.0,8.0,1.0,0.0,0.0,0.0,1,1,0,2,105.87,66.92,89.12,64.83,1,1,1,1
+unit_83,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Moderate,Democrat,Disagree,Agree,1.0,3.0,8.0,2.0,1.0,1.0,0.0,0,0,0,0,16.77,18.26,10.03,18.71,1,1,1,1
+unit_85,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Moderate,Democrat,Agree,Agree,4.0,2.0,5.0,2.0,1.0,0.0,0.0,0,0,0,0,27.51,42.34,9.63,20.15,1,1,1,1
+unit_87,36-50,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Very conservative,Republican,Agree,No opinion either way,3.0,2.0,6.0,0.0,0.0,0.0,2.0,0,0,0,0,28.77,21.39,10.04,26.36,1,1,1,1
+unit_89,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Agree,No opinion either way,2.0,3.0,4.0,2.0,2.0,0.0,2.0,1,1,0,2,30.14,85.64,9.98,24.33,1,1,1,1
+unit_91,26-35,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Moderate,Democrat,Disagree,Agree,2.0,2.0,1.0,2.0,1.0,1.0,0.0,1,0,0,1,40.08,29.77,13.71,19.45,1,1,1,1
+unit_93,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Agree,Agree,2.0,3.0,5.0,3.0,1.0,0.0,0.0,0,0,0,0,45.78,9.72,5.11,17.23,1,1,1,1
+unit_95,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,2.0,1.0,4.0,2.0,2.0,1.0,0.0,0,0,0,0,273.63,49.55,9.12,62.3,1,1,1,1
+unit_97,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very liberal,Democrat,Disagree,Agree,2.0,3.0,2.0,4.0,1.0,1.0,0.0,1,1,0,2,18.19,179.92,186.63,125.76,1,1,1,1
+unit_99,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Republican,Agree,Agree,2.0,3.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,23.62,44.65,23.65,56.23,1,1,1,1
+unit_101,19-25,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Moderate,Independent,Disagree,Agree,1.0,4.0,5.0,2.0,2.0,1.0,0.0,1,1,1,3,18.54,38.31,9.52,20.35,1,1,1,1
+unit_103,36-50,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,3.0,4.0,5.0,4.0,2.0,1.0,0.0,1,1,0,2,44.09,59.51,15.26,42.45,1,1,1,1
+unit_105,19-25,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,1.0,2.0,3.0,3.0,1.0,1.0,0.0,1,0,0,1,14.04,13.72,6.38,12.07,1,1,1,1
+unit_107,19-25,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Republican,Agree,Agree,1.0,3.0,6.0,2.0,0.0,0.0,0.0,0,0,0,0,13.97,22.45,5.57,30.81,1,1,1,1
+unit_109,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Democrat,Disagree,Agree,2.0,3.0,6.0,4.0,1.0,1.0,0.0,0,0,0,0,19.71,10.41,42.88,43.89,1,1,1,1
+unit_111,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Democrat,Disagree,Agree,2.0,3.0,6.0,4.0,1.0,1.0,0.0,0,0,0,0,15.28,16.29,8.37,20.28,1,1,1,1
+unit_113,36-50,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,3.0,3.0,7.0,2.0,2.0,1.0,0.0,1,0,0,1,48.1,13.13,8.79,20.3,1,1,1,1
+unit_115,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Very liberal,Democrat,Disagree,Agree,2.0,1.0,4.0,4.0,1.0,1.0,0.0,1,1,1,3,19.33,10.54,7.42,7.8,1,1,1,1
+unit_117,19-25,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Very liberal,Something else,Disagree,Agree,1.0,3.0,6.0,4.0,3.0,1.0,0.0,1,0,0,1,29.1,87.01,34.87,32.02,1,1,1,1
+unit_119,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Very conservative,Republican,Agree,Agree,2.0,5.0,3.0,0.0,0.0,0.0,0.0,0,0,0,0,28.8,23.23,9.98,7.42,1,1,1,1
+unit_121,19-25,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Moderate,Democrat,Disagree,Agree,1.0,2.0,3.0,2.0,1.0,1.0,0.0,0,0,0,0,24.41,12.53,54.54,102.8,1,1,1,1
+unit_123,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Independent,No opinion either way,Agree,2.0,2.0,2.0,3.0,2.0,2.0,0.0,0,0,0,0,30.34,18.55,18.9,24.03,1,1,1,1
+unit_125,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Very liberal,Independent,Disagree,Agree,2.0,1.0,4.0,4.0,2.0,1.0,0.0,0,0,0,0,21.64,12.38,4.85,13.71,1,1,1,1
+unit_127,36-50,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Conservative,Republican,Agree,Disagree,3.0,2.0,4.0,1.0,0.0,0.0,1.0,1,0,0,1,52.12,19.29,12.36,25.84,1,1,1,1
+unit_129,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Agree,Agree,1.0,3.0,4.0,3.0,1.0,0.0,0.0,0,0,0,0,17.44,10.22,8.76,9.07,1,1,1,1
+unit_131,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Democrat,Agree,Agree,1.0,3.0,3.0,2.0,1.0,0.0,0.0,1,0,0,1,54.57,53.23,34.73,57.09,1,1,1,1
+unit_133,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,1.0,3.0,4.0,3.0,1.0,1.0,0.0,0,0,0,0,14.79,12.91,6.09,6.52,1,1,1,1
+unit_135,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Democrat,Agree,Agree,1.0,3.0,3.0,3.0,1.0,0.0,0.0,0,1,0,1,49.96,111.65,75.85,101.54,1,1,1,1
+unit_137,19-25,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Moderate,Independent,Disagree,No opinion either way,1.0,5.0,3.0,2.0,2.0,1.0,2.0,1,1,0,2,33.79,45.11,16.19,35.71,1,1,1,1
+unit_139,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Very liberal,Democrat,Disagree,Agree,2.0,3.0,1.0,4.0,1.0,1.0,0.0,1,0,0,1,20.68,16.61,17.34,27.11,1,1,1,1
+unit_141,19-25,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Liberal,Democrat,Disagree,Agree,1.0,3.0,7.0,3.0,1.0,1.0,0.0,1,1,0,2,16.26,25.36,13.78,12.0,1,1,1,1
+unit_143,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Democrat,Disagree,Agree,3.0,3.0,4.0,2.0,1.0,1.0,0.0,1,1,1,3,22.7,21.0,8.66,26.24,1,1,1,1
+unit_145,19-25,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,Disagree,Agree,1.0,3.0,5.0,2.0,1.0,1.0,0.0,0,0,0,0,14.71,13.23,47.1,23.34,1,1,1,1
+unit_147,36-50,"Some postgraduate or professional schooling, no postgraduate degree","75,000 to less than 100,000",Liberal,Republican,Agree,Agree,3.0,4.0,6.0,3.0,0.0,0.0,0.0,1,0,0,1,145.25,57.91,146.98,51.73,1,1,1,1
+unit_149,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,5.0,5.0,3.0,1.0,1.0,0.0,1,0,0,1,15.79,21.79,10.5,8.51,1,1,1,1
+unit_151,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,6.0,3.0,1.0,1.0,0.0,0,0,0,0,32.11,44.53,36.31,22.11,1,1,1,1
+unit_153,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Independent,Disagree,Agree,2.0,3.0,3.0,1.0,2.0,1.0,0.0,0,0,0,0,115.88,281.35,18.9,35.73,1,1,1,1
+unit_155,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,1.0,3.0,1.0,1.0,0.0,1,1,0,2,18.14,43.53,19.12,76.97,1,1,1,1
+unit_157,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very conservative,Republican,Agree,Agree,1.0,3.0,3.0,0.0,0.0,0.0,0.0,0,0,0,0,52.42,30.06,16.98,20.55,1,1,1,1
+unit_159,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Agree,Agree,2.0,3.0,3.0,2.0,2.0,0.0,0.0,0,0,0,0,25.82,21.8,23.76,61.92,1,1,1,1
+unit_161,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Independent,Agree,No opinion either way,3.0,1.0,5.0,2.0,2.0,0.0,2.0,1,0,0,1,20.76,107.56,39.85,16.23,1,1,1,1
+unit_163,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Democrat,Disagree,Agree,2.0,3.0,4.0,2.0,1.0,1.0,0.0,1,1,0,2,23.25,43.44,40.63,31.91,1,1,1,1
+unit_165,50-80,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Moderate,Independent,No opinion either way,Agree,4.0,3.0,7.0,2.0,2.0,2.0,0.0,1,0,0,1,25.18,72.1,24.37,12.65,1,1,1,1
+unit_167,36-50,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,3.0,3.0,2.0,3.0,1.0,1.0,0.0,1,0,0,1,70.33,108.64,37.92,53.72,1,1,1,1
+unit_169,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,4.0,3.0,1.0,1.0,0.0,0,0,0,0,111.64,12.06,15.18,32.31,1,1,1,1
+unit_171,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Conservative,Republican,Agree,Disagree,2.0,1.0,4.0,1.0,0.0,0.0,1.0,1,0,0,1,12.92,3.18,2.94,4.47,1,1,1,1
+unit_173,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0,0,0,0,16.8,13.69,8.22,4.44,1,1,1,1
+unit_175,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Republican,Agree,Disagree,2.0,3.0,4.0,0.0,0.0,0.0,1.0,0,0,0,0,26.14,32.09,12.82,41.12,1,1,1,1
+unit_177,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Very liberal,Democrat,Disagree,Agree,2.0,5.0,4.0,4.0,1.0,1.0,0.0,1,1,0,2,22.11,36.54,28.64,39.34,1,1,1,1
+unit_179,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","150,000 or more",Liberal,Democrat,Agree,Agree,3.0,5.0,8.0,3.0,1.0,0.0,0.0,1,0,0,1,70.55,17.92,51.19,60.08,1,1,1,1
+unit_181,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Republican,Agree,Agree,2.0,3.0,3.0,3.0,0.0,0.0,0.0,0,0,0,0,20.47,56.72,30.79,39.97,1,1,1,1
+unit_183,50-80,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,4.0,3.0,5.0,3.0,1.0,1.0,0.0,0,0,0,0,54.82,50.53,26.55,40.61,1,1,1,1
+unit_185,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Something else,No opinion either way,Agree,2.0,3.0,6.0,2.0,3.0,2.0,0.0,0,0,0,0,28.78,65.03,20.96,34.02,1,1,1,1
+unit_187,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Disagree,Agree,2.0,5.0,3.0,3.0,1.0,1.0,0.0,1,1,0,2,22.69,11.61,15.93,16.62,1,1,1,1
+unit_189,19-25,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,1.0,2.0,1.0,3.0,1.0,1.0,0.0,0,1,0,1,26.95,14.04,19.63,29.57,1,1,1,1
+unit_191,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Independent,No opinion either way,Agree,2.0,3.0,3.0,4.0,2.0,2.0,0.0,1,0,0,1,31.96,25.25,17.33,58.03,1,1,1,1
+unit_193,26-35,"Some postgraduate or professional schooling, no postgraduate degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,4.0,5.0,3.0,1.0,1.0,0.0,1,0,0,1,30.25,25.44,13.24,28.43,1,1,1,1
+unit_195,26-35,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,7.0,3.0,1.0,1.0,0.0,0,1,0,1,95.32,30.73,120.07,181.48,1,1,1,1
+unit_197,26-35,"Some postgraduate or professional schooling, no postgraduate degree","30,000 to less than 40,000",Very conservative,Democrat,Agree,Agree,2.0,4.0,3.0,0.0,1.0,0.0,0.0,0,0,0,0,35.45,31.96,18.06,14.49,1,1,1,1
+unit_199,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,2.0,5.0,3.0,4.0,1.0,1.0,0.0,0,1,0,1,29.32,65.68,15.95,20.22,1,1,1,1
+unit_0,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Moderate,Republican,Disagree,Agree,3.0,5.0,7.0,2.0,0.0,1.0,0.0,1,1,0,2,13.84,6.39,5.22,7.29,1,1,1,1
+unit_4,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,3.0,1.0,7.0,2.0,2.0,1.0,0.0,1,0,0,1,25.36,13.21,29.25,21.77,1,1,1,1
+unit_6,26-35,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,No opinion either way,Disagree,2.0,3.0,8.0,1.0,0.0,2.0,1.0,1,1,0,2,25.27,15.08,4.96,7.19,1,1,1,1
+unit_8,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Conservative,Republican,Agree,Agree,3.0,5.0,6.0,1.0,0.0,0.0,0.0,0,1,0,1,33.16,20.12,50.51,89.95,1,1,1,1
+unit_10,26-35,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Liberal,Democrat,Agree,Agree,2.0,2.0,4.0,3.0,1.0,0.0,0.0,0,0,0,0,24.51,7.29,5.86,7.81,1,1,1,1
+unit_12,36-50,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Independent,Disagree,Agree,3.0,3.0,1.0,3.0,2.0,1.0,0.0,0,0,0,0,26.02,59.57,5.03,13.64,1,1,1,1
+unit_14,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Liberal,Democrat,Agree,Agree,3.0,5.0,7.0,3.0,1.0,0.0,0.0,1,0,0,1,34.17,15.24,103.56,8.85,1,1,1,1
+unit_16,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Agree,Agree,2.0,3.0,6.0,1.0,0.0,0.0,0.0,1,0,0,1,743.82,21.4,20.23,22.92,1,1,1,1
+unit_18,36-50,"Some college (some community college, associate’s degree)","Less than 10,000",Liberal,Democrat,Disagree,Agree,3.0,2.0,0.0,3.0,1.0,1.0,0.0,1,0,0,1,25.95,56.95,37.26,40.09,1,1,1,1
+unit_20,19-25,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Conservative,Democrat,Agree,Disagree,1.0,2.0,6.0,1.0,1.0,0.0,1.0,0,0,0,0,35.49,20.4,8.25,18.02,1,1,1,1
+unit_22,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Agree,Agree,2.0,3.0,5.0,3.0,1.0,0.0,0.0,1,0,0,1,30.91,93.7,46.62,53.81,1,1,1,1
+unit_24,26-35,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,Agree,Agree,2.0,3.0,8.0,1.0,0.0,0.0,0.0,1,1,0,2,33.12,157.31,30.1,61.2,1,1,1,1
+unit_26,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Liberal,Democrat,No opinion either way,Agree,1.0,3.0,3.0,3.0,1.0,2.0,0.0,0,0,0,0,76.26,179.42,69.13,125.93,1,1,1,1
+unit_28,36-50,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,3.0,3.0,3.0,4.0,1.0,1.0,0.0,0,0,0,0,23.2,114.52,13.81,19.85,1,1,1,1
+unit_30,36-50,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Democrat,Agree,No opinion either way,3.0,3.0,3.0,1.0,1.0,0.0,2.0,0,0,0,0,60.09,24.9,239.12,27.32,1,1,1,1
+unit_32,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,1.0,3.0,4.0,2.0,2.0,1.0,0.0,1,1,0,2,38.85,26.99,19.31,54.65,1,1,1,1
+unit_34,19-25,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Independent,Disagree,Agree,1.0,3.0,5.0,3.0,2.0,1.0,0.0,1,1,0,2,18.06,37.61,34.01,49.32,1,1,1,1
+unit_36,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,No opinion either way,Agree,3.0,3.0,5.0,2.0,1.0,2.0,0.0,0,0,0,0,55.39,42.55,73.5,37.75,1,1,1,1
+unit_38,26-35,"Some postgraduate or professional schooling, no postgraduate degree","100,000 to less than 150,000",Conservative,Republican,Agree,Agree,2.0,4.0,7.0,1.0,0.0,0.0,0.0,1,0,0,1,28.39,26.49,27.74,35.3,1,1,1,1
+unit_40,36-50,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Very liberal,Republican,Agree,Agree,3.0,3.0,1.0,4.0,0.0,0.0,0.0,0,0,0,0,24.76,170.42,11.46,17.91,1,1,1,1
+unit_42,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,5.0,3.0,1.0,1.0,0.0,1,1,0,2,18.51,9.9,3.3,15.03,1,1,1,1
+unit_44,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Democrat,Agree,Agree,2.0,3.0,4.0,1.0,1.0,0.0,0.0,0,0,0,0,107.67,45.97,44.94,72.93,1,1,1,1
+unit_46,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Agree,Disagree,1.0,3.0,3.0,2.0,2.0,0.0,1.0,0,0,0,0,146.45,24.43,16.29,11.88,1,1,1,1
+unit_48,36-50,Four year college degree/bachelor’s degree,"150,000 or more",Liberal,Independent,Disagree,Agree,3.0,3.0,8.0,3.0,2.0,1.0,0.0,1,0,0,1,16.96,9.31,5.1,9.83,1,1,1,1
+unit_50,19-25,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Moderate,Independent,Disagree,Agree,1.0,2.0,2.0,2.0,2.0,1.0,0.0,0,0,0,0,40.25,26.84,60.57,52.74,1,1,1,1
+unit_52,19-25,"Some college (some community college, associate’s degree)","40,000 to less than 50,000",Conservative,Democrat,Agree,Agree,1.0,2.0,4.0,1.0,1.0,0.0,0.0,0,0,0,0,43.31,44.18,47.64,51.7,1,1,1,1
+unit_54,36-50,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,3.0,2.0,2.0,3.0,1.0,1.0,0.0,1,0,0,1,24.24,11.18,10.66,19.57,1,1,1,1
+unit_56,36-50,"Some postgraduate or professional schooling, no postgraduate degree","150,000 or more",Very liberal,Democrat,Disagree,Agree,3.0,4.0,8.0,4.0,1.0,1.0,0.0,1,0,0,1,29.29,15.31,18.37,11.07,1,1,1,1
+unit_58,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Republican,Disagree,Disagree,2.0,3.0,6.0,1.0,0.0,1.0,1.0,1,0,0,1,65.21,23.75,23.37,40.59,1,1,1,1
+unit_60,36-50,"Some college (some community college, associate’s degree)","Less than 10,000",Very liberal,Democrat,Disagree,Agree,3.0,2.0,0.0,4.0,1.0,1.0,0.0,1,1,0,2,64.01,637.38,13.5,16.84,1,1,1,1
+unit_62,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Republican,Agree,Agree,3.0,3.0,4.0,1.0,0.0,0.0,0.0,0,0,1,1,114.68,6.78,4.85,16.37,1,1,1,1
+unit_64,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Conservative,Independent,Disagree,Agree,2.0,3.0,4.0,1.0,2.0,1.0,0.0,1,0,0,1,95.84,381.31,105.34,42.97,1,1,1,1
+unit_66,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,3.0,5.0,5.0,3.0,1.0,1.0,0.0,0,0,0,0,16.27,21.37,10.02,10.51,1,1,1,1
+unit_68,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Disagree,No opinion either way,2.0,3.0,3.0,2.0,2.0,1.0,2.0,1,1,0,2,18.4,8.46,3.33,5.72,1,1,1,1
+unit_70,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Democrat,Agree,Agree,3.0,3.0,4.0,0.0,1.0,0.0,0.0,1,0,0,1,36.06,69.91,17.82,7.05,1,1,1,1
+unit_72,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,5.0,3.0,1.0,1.0,0.0,0,0,0,0,302.79,150.47,19.03,47.81,1,1,1,1
+unit_74,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Republican,Agree,Agree,2.0,3.0,4.0,3.0,0.0,0.0,0.0,1,1,0,2,82.72,110.63,136.18,127.88,1,1,1,1
+unit_76,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Republican,Agree,Agree,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0,0,1,1,22.49,30.1,14.62,29.16,1,1,1,1
+unit_78,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,5.0,5.0,3.0,1.0,1.0,0.0,1,0,0,1,27.09,31.75,24.58,19.79,1,1,1,1
+unit_80,26-35,"Some postgraduate or professional schooling, no postgraduate degree","40,000 to less than 50,000",Moderate,Republican,Agree,Agree,2.0,4.0,4.0,2.0,0.0,0.0,0.0,0,0,0,0,43.73,301.71,73.95,55.52,1,1,1,1
+unit_82,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very liberal,Republican,Agree,Agree,2.0,3.0,4.0,4.0,0.0,0.0,0.0,0,0,1,1,65.31,6.43,10.83,5.55,1,1,1,1
+unit_84,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very liberal,Republican,Agree,Agree,2.0,3.0,5.0,4.0,0.0,0.0,0.0,0,0,1,1,43.75,25.79,185.84,12.01,1,1,1,1
+unit_86,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Democrat,Agree,Agree,2.0,3.0,2.0,0.0,1.0,0.0,0.0,0,0,1,1,35.99,24.09,13.22,11.62,1,1,1,1
+unit_88,26-35,Four year college degree/bachelor’s degree,"100,000 to less than 150,000",Conservative,Republican,Disagree,Agree,2.0,3.0,7.0,1.0,0.0,1.0,0.0,1,0,0,1,35.54,32.52,21.53,25.41,1,1,1,1
+unit_90,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"75,000 to less than 100,000",Conservative,Republican,Disagree,Agree,2.0,1.0,6.0,1.0,0.0,1.0,0.0,0,0,0,0,24.55,9.46,8.7,18.81,1,1,1,1
+unit_92,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Independent,Disagree,Agree,2.0,3.0,3.0,2.0,2.0,1.0,0.0,1,0,0,1,48.89,27.19,89.87,40.25,1,1,1,1
+unit_94,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Republican,Agree,Agree,2.0,3.0,2.0,0.0,0.0,0.0,0.0,0,0,0,0,42.69,9.9,73.74,47.58,1,1,1,1
+unit_96,19-25,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,1.0,1.0,4.0,2.0,2.0,1.0,0.0,1,0,0,1,17.81,7.78,7.1,17.0,1,1,1,1
+unit_98,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,6.0,3.0,1.0,1.0,0.0,0,0,0,0,36.79,53.56,28.09,46.91,1,1,1,1
+unit_100,19-25,"Some college (some community college, associate’s degree)","Less than 10,000",Liberal,Democrat,Disagree,Agree,1.0,2.0,0.0,3.0,1.0,1.0,0.0,1,0,0,1,18.9,14.09,37.0,27.09,1,1,1,1
+unit_102,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,3.0,5.0,4.0,0.0,0.0,0.0,0.0,0,0,0,0,260.09,8.75,7.7,8.03,1,1,1,1
+unit_104,19-25,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very liberal,Democrat,Disagree,Agree,1.0,2.0,2.0,4.0,1.0,1.0,0.0,1,0,0,1,32.27,18.45,15.51,50.72,1,1,1,1
+unit_106,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"100,000 to less than 150,000",Very liberal,Democrat,Disagree,Agree,2.0,1.0,7.0,4.0,1.0,1.0,0.0,0,0,0,0,27.84,50.68,11.39,38.18,1,1,1,1
+unit_108,19-25,"Some postgraduate or professional schooling, no postgraduate degree","20,000 to less than 30,000",Moderate,Independent,Agree,Agree,1.0,4.0,2.0,2.0,2.0,0.0,0.0,0,0,0,0,18.67,32.16,4.63,6.26,1,1,1,1
+unit_110,36-50,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"Less than 10,000",Very liberal,Democrat,Disagree,Agree,3.0,1.0,0.0,4.0,1.0,1.0,0.0,0,0,0,0,28.93,26.93,18.64,14.59,1,1,1,1
+unit_112,19-25,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Independent,Disagree,Agree,1.0,3.0,4.0,3.0,2.0,1.0,0.0,1,0,0,1,23.29,51.5,41.71,29.53,1,1,1,1
+unit_114,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Independent,Disagree,Agree,2.0,1.0,5.0,2.0,2.0,1.0,0.0,0,0,0,0,23.48,10.05,10.42,31.78,1,1,1,1
+unit_116,26-35,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Very conservative,Something else,Agree,No opinion either way,2.0,2.0,5.0,0.0,3.0,0.0,2.0,1,1,0,2,32.89,17.15,19.71,25.39,1,1,1,1
+unit_118,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,3.0,5.0,5.0,3.0,1.0,1.0,0.0,1,0,0,1,26.9,25.31,11.39,35.59,1,1,1,1
+unit_120,26-35,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Moderate,Republican,Agree,Agree,2.0,3.0,2.0,2.0,0.0,0.0,0.0,0,1,0,1,25.32,19.89,7.33,38.03,1,1,1,1
+unit_122,26-35,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Very conservative,Republican,Agree,Disagree,2.0,2.0,2.0,0.0,0.0,0.0,1.0,1,0,0,1,15.59,14.72,19.39,13.28,1,1,1,1
+unit_124,26-35,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Liberal,Democrat,Disagree,Agree,2.0,2.0,1.0,3.0,1.0,1.0,0.0,0,0,1,1,46.1,33.43,17.74,17.64,1,1,1,1
+unit_126,26-35,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Conservative,Republican,Agree,Agree,2.0,3.0,3.0,1.0,0.0,0.0,0.0,0,0,0,0,92.74,73.75,17.51,17.9,1,1,1,1
+unit_128,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Disagree,3.0,5.0,5.0,4.0,2.0,1.0,1.0,1,1,0,2,44.82,27.62,38.15,15.37,1,1,1,1
+unit_130,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Conservative,Republican,Disagree,Agree,1.0,3.0,8.0,1.0,0.0,1.0,0.0,1,1,0,2,10.82,6.82,2.94,9.55,1,1,1,1
+unit_132,50-80,"Some college (some community college, associate’s degree)","20,000 to less than 30,000",Liberal,Democrat,Disagree,Agree,4.0,2.0,2.0,3.0,1.0,1.0,0.0,1,0,0,1,19.63,13.81,8.3,10.87,1,1,1,1
+unit_134,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","100,000 to less than 150,000",Moderate,Independent,Disagree,Agree,2.0,5.0,7.0,2.0,2.0,1.0,0.0,0,1,0,1,12.3,21.34,72.93,13.23,1,1,1,1
+unit_136,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","50,000 to less than 75,000",Very liberal,Independent,Disagree,Agree,2.0,5.0,5.0,4.0,2.0,1.0,0.0,1,0,0,1,20.62,18.15,11.86,17.74,1,1,1,1
+unit_138,36-50,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Very conservative,Democrat,Agree,Agree,3.0,3.0,4.0,0.0,1.0,0.0,0.0,0,0,0,0,18.33,18.81,10.1,21.31,1,1,1,1
+unit_140,19-25,"Some college (some community college, associate’s degree)","75,000 to less than 100,000",Liberal,Independent,Disagree,Agree,1.0,2.0,6.0,3.0,2.0,1.0,0.0,1,1,0,2,16.5,24.79,51.52,35.23,1,1,1,1
+unit_142,50-80,Four year college degree/bachelor’s degree,"Less than 10,000",Very conservative,Republican,No opinion either way,Agree,4.0,3.0,0.0,0.0,0.0,2.0,0.0,0,0,0,0,95.25,52.71,117.8,59.56,1,1,1,1
+unit_144,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,3.0,5.0,6.0,3.0,1.0,1.0,0.0,1,0,0,1,58.77,15.52,26.9,29.88,1,1,1,1
+unit_146,26-35,High school graduate or GED (includes technical/vocational training that doesn’t towards college credit),"50,000 to less than 75,000",Moderate,Something else,No opinion either way,No opinion either way,2.0,1.0,5.0,2.0,3.0,2.0,2.0,0,0,1,1,46.01,34.41,47.53,66.38,1,1,1,1
+unit_148,26-35,"Some postgraduate or professional schooling, no postgraduate degree","40,000 to less than 50,000",Very conservative,Republican,Agree,Agree,2.0,4.0,4.0,0.0,0.0,0.0,0.0,0,0,0,0,31.21,10.68,12.84,5.97,1,1,1,1
+unit_150,26-35,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","40,000 to less than 50,000",Moderate,Independent,Disagree,Agree,2.0,5.0,4.0,2.0,2.0,1.0,0.0,0,0,0,0,28.01,29.55,27.08,18.99,1,1,1,1
+unit_152,19-25,Four year college degree/bachelor’s degree,"Less than 10,000",Conservative,Republican,Agree,Agree,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0,1,0,1,17.88,13.59,13.38,32.26,1,1,1,1
+unit_154,19-25,Four year college degree/bachelor’s degree,"150,000 or more",Liberal,Democrat,Disagree,Agree,1.0,3.0,8.0,3.0,1.0,1.0,0.0,0,0,0,0,19.15,25.41,8.52,31.78,1,1,1,1
+unit_158,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Conservative,Democrat,Agree,Agree,2.0,3.0,1.0,1.0,1.0,0.0,0.0,0,0,0,0,38.7,49.97,79.7,172.79,1,1,1,1
+unit_160,26-35,"Some college (some community college, associate’s degree)","30,000 to less than 40,000",Very liberal,Democrat,Disagree,Agree,2.0,2.0,3.0,4.0,1.0,1.0,0.0,1,0,0,1,32.09,8.91,10.38,15.17,1,1,1,1
+unit_162,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,4.0,3.0,1.0,1.0,0.0,0,0,0,0,22.07,9.61,8.86,31.97,1,1,1,1
+unit_164,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,5.0,3.0,1.0,1.0,0.0,0,0,0,0,52.24,58.7,39.07,58.79,1,1,1,1
+unit_166,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,4.0,2.0,5.0,3.0,1.0,1.0,0.0,1,1,0,2,17.45,17.78,9.2,22.71,1,1,1,1
+unit_170,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,5.0,3.0,1.0,1.0,0.0,1,1,0,2,22.47,24.04,8.34,29.42,1,1,1,1
+unit_172,19-25,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Independent,Disagree,Agree,1.0,3.0,1.0,3.0,2.0,1.0,0.0,1,0,0,1,28.05,54.92,12.37,31.71,1,1,1,1
+unit_174,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Liberal,Republican,Disagree,Agree,2.0,3.0,4.0,3.0,0.0,1.0,0.0,1,0,0,1,22.59,46.7,10.7,74.42,1,1,1,1
+unit_176,50-80,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Conservative,Independent,Disagree,Disagree,4.0,3.0,6.0,1.0,2.0,1.0,1.0,1,1,0,2,43.02,30.09,16.89,20.55,1,1,1,1
+unit_178,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Republican,Agree,Agree,2.0,3.0,5.0,2.0,0.0,0.0,0.0,1,0,0,1,31.48,40.75,44.98,179.59,1,1,1,1
+unit_180,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Independent,Agree,Agree,2.0,3.0,5.0,2.0,2.0,0.0,0.0,0,0,0,0,38.83,25.81,39.17,51.74,1,1,1,1
+unit_182,26-35,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Liberal,Democrat,Agree,Agree,2.0,3.0,1.0,3.0,1.0,0.0,0.0,0,0,0,0,26.33,25.52,9.39,3.97,1,1,1,1
+unit_184,19-25,Four year college degree/bachelor’s degree,"30,000 to less than 40,000",Moderate,Democrat,Agree,Agree,1.0,3.0,3.0,2.0,1.0,0.0,0.0,0,0,0,0,29.39,32.36,25.74,21.26,1,1,1,1
+unit_186,26-35,Four year college degree/bachelor’s degree,"40,000 to less than 50,000",Moderate,Independent,Agree,Agree,2.0,3.0,4.0,2.0,2.0,0.0,0.0,1,0,0,1,38.69,9.24,5.75,7.77,1,1,1,1
+unit_188,50-80,Four year college degree/bachelor’s degree,"20,000 to less than 30,000",Very conservative,Democrat,Agree,Agree,4.0,3.0,2.0,0.0,1.0,0.0,0.0,0,0,1,1,33.6,20.74,17.51,26.49,1,1,1,1
+unit_190,26-35,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Liberal,Democrat,Disagree,Agree,2.0,3.0,6.0,3.0,1.0,1.0,0.0,1,1,0,2,48.17,26.9,28.03,42.15,1,1,1,1
+unit_192,26-35,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Very conservative,Republican,Agree,Agree,2.0,3.0,5.0,0.0,0.0,0.0,0.0,1,0,0,1,76.5,46.32,83.0,15.83,1,1,1,1
+unit_194,50-80,"Some college (some community college, associate’s degree)","50,000 to less than 75,000",Very conservative,Republican,Agree,No opinion either way,4.0,2.0,5.0,0.0,0.0,0.0,2.0,0,0,0,0,33.81,38.24,19.63,21.76,1,1,1,1
+unit_196,36-50,Four year college degree/bachelor’s degree,"50,000 to less than 75,000",Moderate,Democrat,Agree,Agree,3.0,3.0,5.0,2.0,1.0,0.0,0.0,1,1,0,2,58.99,18.03,10.37,10.7,1,1,1,1
+unit_198,36-50,"Postgraduate or professional degree, including master’s, doctorate, medical or law degree","30,000 to less than 40,000",Liberal,Democrat,Agree,Agree,3.0,5.0,3.0,3.0,1.0,0.0,0.0,0,0,0,0,233.49,22.35,10.38,24.68,1,1,1,1
+unit_2,19-25,Four year college degree/bachelor’s degree,"10,000 to less than 20,000",Conservative,Republican,Disagree,Agree,1.0,3.0,1.0,1.0,0.0,1.0,0.0,1,0,0,1,23.88,23.98,11.29,52.79,1,1,1,1
+unit_168,19-25,"Some college (some community college, associate’s degree)","10,000 to less than 20,000",Very liberal,Democrat,Disagree,Agree,1.0,2.0,1.0,4.0,1.0,1.0,0.0,1,1,0,2,33.81,10.77,20.3,237.91,1,1,1,1
+unit_156,36-50,Four year college degree/bachelor’s degree,"75,000 to less than 100,000",Moderate,Democrat,No opinion either way,Agree,3.0,3.0,6.0,2.0,1.0,2.0,0.0,0,0,1,1,371.26,607.14,13.72,161.39,1,1,1,1
