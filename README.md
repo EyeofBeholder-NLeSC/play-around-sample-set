@@ -1,2 +1,2 @@
 # play-around-sample-set
-Repository to keep the jupyter notebooks for experimenting the sample dataset of user profile.
+Repository to keep the jupyter notebooks for experimenting the sample dataset.
